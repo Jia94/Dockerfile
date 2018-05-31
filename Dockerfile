@@ -39,5 +39,5 @@ RUN apt-get update --fix-missing \
     && make install \
     && /usr/local/bin/mpicc examples/ring_c.c -o /usr/bin/mpi_ring \
     && rm -rf /ompi
-
+COPY .profile /root/.
 CMD ["/bin/bash" , "-l"]
