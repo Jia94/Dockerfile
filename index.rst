@@ -17,9 +17,9 @@ At present, I mainly focuses on the following aspects: Meteorological data,Meteo
    :maxdepth: 2
    :caption: Meteorological data
 
-   Metar
-   Profiler
-   Radar
+   Data/Metar
+   Data/Profiler
+   Data/Radar
    
 .. Meteorological model:
 -----------------------------
