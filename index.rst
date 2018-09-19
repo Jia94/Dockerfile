@@ -9,9 +9,7 @@ This is Jia's home page and will show you  what Jia have leanred.More importantl
 
 documentation.
 
-At present, I mainly focuses on the following aspects: Meteorological data, Meteorological model, Data assimilation, FSO, Linux 
-
-operation skills, and Useful tools.
+At present, I mainly focuses on the following aspects: Meteorological data, Meteorological model, Data assimilation, FSO, Linux operation skills, and Useful tools.
 
 .. Meteorological data:
 
