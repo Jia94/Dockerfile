@@ -30,13 +30,13 @@ operation skills, and Useful tools.
    api/index
    embed
    
-  .. Meteorological model:
+.. Meteorological model:
   
-  .. Data assimilation:
+.. Data assimilation:
     
-  .. FSO:
+.. FSO:
       
-  .. Linux operation skills:
+.. Linux operation skills:
   
-  .. Useful tools:
+.. Useful tools:
 
