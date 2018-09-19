@@ -23,33 +23,39 @@ At present, I mainly focuses on the following aspects: Meteorological data,Meteo
    
 .. Meteorological model:
 -----------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: Meteorological model
    
-   WRF
-   WRFDA
+   Model/WRF
+   Model/WRFDA
    
   
 .. Data assimilation:
 ------------------------------   
+
 .. toctree::
    :maxdepth: 2
    :caption: Data assimilation
 
 .. FSO:
 ------------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: FSO
    
 .. Linux skills:
 -------------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: Linux skills
 .. Useful tools:
+
 -------------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: Useful tools
